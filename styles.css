@@ -1,0 +1,18 @@
+body{
+    background-color: #F9F3EE;
+}
+
+.pictures{
+    width: 500px;
+    height: 700px;
+}
+.slaid{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    background-color: #B8F1B0;
+    border: none;
+    font-size: 38px;
+    font-family: 'Tangerine', cursive;
+}
